@@ -1,0 +1,148 @@
+ Chart
+ 
+AADT 
+Number
+AADT Derivation 
+Number 
+AADT Year 
+Number
+Access Control 
+Number
+City 
+Number
+County 
+Number 
+Cross Slope 
+Number
+Curb 
+Number
+Facility Type 
+Number
+Federal Aid Eligible Road 
+Number 
+Federal Aid Route Number 
+Text
+Federal Functional Class 
+Number 
+From Measure 
+Number 
+From Street Name 
+Text
+Functional Class 
+Number
+GlobalID 
+Unique ID 
+Highway District 
+Number
+Jurisdictn 
+Text 
+Left Sidewalk Width 
+Number 
+Length 
+Number
+Med_Type 
+Number 
+Median Width 
+Number
+Metropolitian Highway System 
+Number
+Mileage_Counted 
+Number 
+MPO 
+Text 
+Municipal Type 
+Number
+NHS 
+Number 
+Number of Travel Lanes 
+Number
+OBJECTID 
+Unique ID 
+Off-road Path Width 
+Number 
+Opposite Number of Travel Lanes 
+Number
+Pedestrian Facility Type 
+Number
+Pedestrian Surface Type 
+Number 
+Right Of Way Width 
+Number 
+Right Sidewalk Width 
+Number 
+Road Segment ID 
+Number 
+Route ID 
+Text
+Route Priority 
+Number 
+Route_Direction 
+Text 
+Route_Number 
+Text
+Route_System 
+Text 
+RPA 
+Text 
+RTA 
+Text
+Shape 
+Geometry 
+Shape.STLength() 
+Number
+Shldr_Lt_T 
+Number
+Shldr_Rt_T 
+Number
+Shldr_UL_T 
+Number 
+Shoulder Width Left 
+Number 
+Shoulder Width Left 
+Number 
+Shoulder Width Right 
+Number 
+Speed Limit 
+Number 
+Speed Limit 
+Number 
+Speed Limit Opposing Direction 
+Number 
+Station Number 
+Number 
+StationID 
+Text 
+Street Name 
+Text
+Street Operation 
+Number
+Structural Condition 
+Number
+Surface Type 
+Number 
+Surface Width 
+Number
+Terrain Type 
+Number 
+To Measure 
+Number 
+To Street Name 
+Text 
+Toll Road 
+Number 
+Truck 
+Text
+Truck Exclusion Time 
+Number
+Truck Exclusion Type 
+Number
+Truck Network 
+Number 
+Truck Permit 
+Text
+Truck Route 
+Number
+Urban Type 
+Number
+Urbanized Area 
+Text
