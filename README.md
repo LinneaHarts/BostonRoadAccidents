@@ -38,11 +38,10 @@ I tried many different models for regression and classification and found tree a
 
 For more information about machine learning on this data, see this report: https://github.com/LinneaHarts/BostonRoadAccidents/blob/master/reports/Bike%20and%20Car%20Accident%20Machine%20Learning%20Report.pdf
 
-And these notebooks:
+And these notebooks: https://github.com/LinneaHarts/BostonRoadAccidents/tree/master/machine_learning
 
 To Get Started:
-* Overview presentation: https://github.com/LinneaHarts/BostonRoadAccidents/blob/master/reports/Bike%20and%20Car%20Accident%20Prediction.pdf
-* Milestone report: https://github.com/LinneaHarts/BostonRoadAccidents/blob/master/reports/Bike%20and%20Car%20Accident%20Prediction%20Milestone%20Report.pdf
+* Overview presentation: https://github.com/LinneaHarts/BostonRoadAccidents/blob/master/reports/Bike%20and%20Car%20Accident%20Prediction%20Final%20Report.pdf
 * Machine learning report: https://github.com/LinneaHarts/BostonRoadAccidents/blob/master/reports/Bike%20and%20Car%20Accident%20Machine%20Learning%20Report.pdf
 * Final Report: https://github.com/LinneaHarts/BostonRoadAccidents/blob/master/reports/Bike%20and%20Car%20Accident%20Final%20Report.pdf
 
