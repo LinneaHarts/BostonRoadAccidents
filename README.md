@@ -16,7 +16,10 @@ The data sets for this project come from:
 - Associate road data with those clusters
 - Create areas without accidents and associate road data with those
 
-This image shows all the accident clusters I identified
+For more information about Data Wrangling, see this report: https://github.com/LinneaHarts/BostonRoadAccidents/blob/master/reports/Bike%20and%20Car%20Accident%20Prediction%20Data%20Wrangling.pdf
+
+And these notebooks:
+
 
 
 To Get Started:
