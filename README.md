@@ -18,9 +18,27 @@ The data sets for this project come from:
 
 For more information about Data Wrangling, see this report: https://github.com/LinneaHarts/BostonRoadAccidents/blob/master/reports/Bike%20and%20Car%20Accident%20Prediction%20Data%20Wrangling.pdf
 
+And these notebooks: https://github.com/LinneaHarts/BostonRoadAccidents/tree/master/data_wrangling
+
+## Machine Learning
+I tried many different models for regression and classification and found tree and ensemble methods the most effective for classifying an area as being a place that a car or bike accident would take place:
+
+| Model | Vehicle | Accuracy |
+| ---- | ---- | ----- |
+| DecisionTreeClassifier | car | 0.886 |
+| DecisionTreeClassifier | bike | 0.902 |
+| RandomForestClassifier | car | 0.885 |
+| RandomForestClassifier | bike | 0.908 |
+| BaggingClassifier | car | 0.895 |
+| BaggingClassifier | bike | 0.913 |
+| GradientBoostingClassifier | car | 0.885 |
+| GradientBoostingClassifier | bike | 0.895 |
+| AdaBoostClassifier | car | 0.859 |
+| AdaBoostClassifier | bike | 0.884 |
+
+For more information about machine learning on this data, see this report: https://github.com/LinneaHarts/BostonRoadAccidents/blob/master/reports/Bike%20and%20Car%20Accident%20Machine%20Learning%20Report.pdf
+
 And these notebooks:
-
-
 
 To Get Started:
 * Overview presentation: https://github.com/LinneaHarts/BostonRoadAccidents/blob/master/reports/Bike%20and%20Car%20Accident%20Prediction.pdf
